@@ -1,3 +1,5 @@
-function sum() {
-    return 2+2
-} 
+const todo = () => {
+
+}
+
+console.log(todo());
